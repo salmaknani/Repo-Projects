@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 52F2-F721
+
+ R‚pertoire de C:\Users\hp\Desktop\MyProject
+
+30/01/2021  09:56    <DIR>          .
+30/01/2021  09:56    <DIR>          ..
+30/01/2021  09:56                 0 test.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  448ÿ027ÿ742ÿ208 octets libres

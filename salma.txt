@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 52F2-F721
+
+ R‚pertoire de C:\Users\hp\Desktop\MyProject
+
+30/01/2021  10:05    <DIR>          .
+30/01/2021  10:05    <DIR>          ..
+30/01/2021  10:05                 0 salma.txt
+30/01/2021  09:56               375 test.txt
+               2 fichier(s)              375 octets
+               2 R‚p(s)  448ÿ026ÿ587ÿ136 octets libres
