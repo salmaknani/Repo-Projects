@@ -1,0 +1,2 @@
+fhiertest.txt  salma.txt   salma2.txt  test.txt
+fichier.txt    salma1.txt  salma3.txt  test5.txt
